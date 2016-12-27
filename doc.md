@@ -2,7 +2,6 @@ Appli existante :
 - https://github.com/55minutes/rails-starter
 - https://github.com/thoughtbot/suspenders
 - rails composer : https://github.com/RailsApps/rails-composer
-- rails wizard : http://railswizard.org
 
 Choix technique :
 - architecture css
